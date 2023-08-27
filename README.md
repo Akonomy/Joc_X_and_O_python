@@ -18,6 +18,9 @@ The score is displayed in the upper right corner of the screen, and the Back but
 
 FAST RULES , HOW TO PLAY 
 
+INSTALL GAME:
+Download the file Aplicatie.exe and run file , the game will start , no other files need
+
 CONTINUE GAME: 
 To restart the game after a round, press the SPACE key. board will be cleared and u can enjoy a new round :))
 
@@ -43,6 +46,9 @@ Scorul este afișat în colțul din dreapta sus al ecranului, iar butonul Back s
 
 
 REGULI RAPIDE , CUM SA JOCI 
+
+INSTALEAZA JOCU:
+Descarca fisierul Aplicatie.exe si ruleaza-l , nu necesita alte fisiere
 
 CONTINUA JOCUL :
  Pentru a reîncepe jocul după o rundă, apasă tasta SPACE. Jocul se va relua iar tabla de joc  va fi din nou libera.
